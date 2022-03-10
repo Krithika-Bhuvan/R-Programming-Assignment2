@@ -1,3 +1,5 @@
+## Repository for Programming Assignment 2 for R Programming on Coursera
+
 ### Introduction
 
 This second programming assignment will require you to write an R
